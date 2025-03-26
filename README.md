@@ -3,8 +3,8 @@
 
 # 💫 About Me:
 
-🤖 I am a result driven software engineer with a background in architectural design, combining a creative approach with technical expertise.
-🎓 Recently I graduated from BrainStation software engineering bootcamp, gaining proficiency in coding, problem-solving, and collaborative development.
+🤖 I am a result driven software engineer with a background in architectural design, combining a creative approach with technical expertise.<br>
+🎓 Recently I graduated from BrainStation software engineering bootcamp, gaining proficiency in coding, problem-solving, and collaborative development.<br>
 🌟I am passionate about building innovative solutions and contributing to dynamic development teams.
 
 ## 🌐 Socials:
